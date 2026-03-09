@@ -1,6 +1,6 @@
 # amazon-review-sentiment-analysis
 
-# 📊 Sentiment Analyzer for Samsung Galaxy S4 Reviews
+# 📊 # Sentiment Analyzer for Amazon Reviews
 
 ## 📌 Overview
 
